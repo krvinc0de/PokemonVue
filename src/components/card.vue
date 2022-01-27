@@ -7,7 +7,7 @@
                     <span> {{ pokemon.hp }} hp </span>
                 </h1>
                 <p class="card-body-text"> {{ pokemon.experiencia}} exp </p>
-                <h1 style="color: #37F971">Evelyn De Leon Hernandez </h1>
+                <h1 style="color: #37F971">Kevin pro con covid </h1>
             </div>
             <div class="card-footer">
                 <div class="card-footer-social">
